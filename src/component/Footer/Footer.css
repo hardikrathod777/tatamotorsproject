@@ -1,0 +1,58 @@
+.tata_logo{
+    width: 653px;
+}
+
+.quick_link{
+    width: 326px;
+}
+.quick_link p{
+    color: #fff;
+    font-size: 20px;
+    font-weight:500;
+    letter-spacing: 1px;
+}
+.quick_link ul li{
+    margin-bottom: 8px;
+    padding: 8px 0px;
+}
+
+.social ul li{
+    margin-bottom: 8px;
+    padding: 8px 0px;
+}
+
+.social img{
+    width: 16px;
+    height: 16px;
+    margin-right: 14px;
+}
+
+.social ul li a{
+    font-size: 18px;
+}
+
+.social{
+    width: 326px;
+}
+.social p{
+    color: #fff;
+    font-size: 20px;
+    font-weight:500;
+    letter-spacing: 1px;
+}
+.footer_style{
+    background-color: #383737;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+li{
+    list-style: none;
+}
+ul{
+    padding-left: 0%;
+}
+li a{
+    color: #fff;
+    word-break: break-word;
+    letter-spacing: 1px;
+}

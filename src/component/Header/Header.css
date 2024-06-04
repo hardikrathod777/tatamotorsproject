@@ -1,0 +1,138 @@
+.header-style{
+    background-color: transparent;
+    position: fixed;
+    z-index: 999;
+    padding: 30px 0px;
+}
+
+.logo-style{
+    padding-left: 30px;
+}
+
+.menu-bar-i .fa-bars{
+    width: 35px;
+    height: 35px;
+    color: #fff;
+    padding-right: 35px;
+}
+.active{
+    background-color: aquamarine;
+}
+
+.header-style.scrolled {
+    background-color: #ffffff;
+}
+.menu-bar-i.scrolled .fa-bars {
+    color: #000;
+}
+
+.offcanvas{
+    --bs-offcanvas-width: 100%;
+}
+
+.offcanvas_menu{
+    width: 347px;
+    background-color: #fff;
+    position: relative;
+}
+.offcanvas_body{
+    width: 1189px;
+    background-color: #f8f8f8;
+}
+.close-btn{
+    background-color: transparent;
+    border: none;
+}
+.close-btn .fa-xmark{
+    font-size: 40px;
+    color: #383737;
+    margin-right: 25px;
+}
+.close{
+    display: flex;
+    justify-content: end;
+    padding: 30px 0px;
+}
+.offcanvas-body{
+    padding: 0%;
+}
+.of-logo{
+    padding: 30px 0px;
+    margin-left: 30px;
+}
+.sign a{
+    color: #307fe2 !important;
+    padding-bottom: 17px;
+}
+.sign a .fa-arrow-right{
+    margin-top: 5px;
+
+}
+
+.off_menu li a{
+    color: #7a8084;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.off_menu li{
+    padding: 17px 0px;
+}
+
+.off_menu li .fa-chevron-right{
+    padding-left: 110px;
+}
+
+.off_menu li:hover a{
+    color: #383737;
+}
+.service_menu,.about_menu{
+    width: 313px;
+    height: 100vh;
+    position: absolute;
+    background-color: #fff;
+    top: 0;
+    left: 100%;
+    display: none;
+    padding: 100px 0px 0px 21px;
+}
+
+.service-drop:hover .service_menu{
+    display: block;
+}
+
+.about-drop:hover .about_menu{
+    display: block;
+}
+
+.models-d::-webkit-scrollbar {
+    width: 0; /* Hide scrollbar in Webkit browsers (Safari, Chrome, etc.) */
+}
+.models-d{
+    padding-left: 96px;
+    padding-right: 11px;
+    overflow-y: auto;
+    scrollbar-width: none; /* Hide scrollbar in Firefox */
+    -ms-overflow-style: none;
+}
+.models-d h4{
+    font-size: 40px;
+    text-align: center;
+}
+.models-d p{
+    font-size: 18px;
+    text-align: center;
+    color: #7a8084;
+}
+
+.navigation-h6{
+    text-align: center;
+    color: #383737;
+    font-size: 20px;
+}
+.nav-box img{
+    padding-left: 48px;
+}
+.nav-box a{
+    padding-left: 130px;
+}

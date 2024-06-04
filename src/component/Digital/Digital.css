@@ -1,0 +1,17 @@
+.intro-video{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+    display: none;
+}
+.tiago_entry{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+}

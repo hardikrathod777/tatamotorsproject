@@ -1,0 +1,56 @@
+.banner_img_1 img{
+    width: 100vw;
+}
+.carousel-control-prev{
+    justify-content: start;
+    padding-left: 20px;
+    top: 200px;
+}
+.carousel-control-next{
+    justify-content: end;
+    padding-right: 25px;
+    top: 200px;
+}
+
+.nexon-banner-text{
+    position: absolute;
+    top: 57%;
+    left: 8%;
+    background-color: #00000080;
+    padding: 18px;
+    color: #fff;
+}
+
+.nexon-banner-text h3{
+    font-size: 60px;
+    font-weight: 600;
+    word-break:  break-all;
+}
+.nexon-banner-text p{
+    font-size: 18px;
+}
+.padd-bann{
+    padding: 18px;
+}
+
+.l-arrow .fa-arrow-right{
+    width: 12px;
+    height: 12px;
+    padding-bottom: 2px;
+}
+
+.Scroll{
+    position: absolute;
+    bottom: 0px;
+
+}
+.scroll-arrow{
+    width: 2px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#carouselExample{
+    position: relative !important;
+}
+

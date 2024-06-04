@@ -1,0 +1,44 @@
+.car_drive_img{
+    width:400px;
+}
+
+.car-details-drive {
+    width: 614px;
+    height: 400px;
+    padding: 40px 114px 40px 50px;
+    position:relative;
+}
+.car-details-drive span{
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+}
+.text-drive h5{
+    color: #383737;
+    font-size: 30px;
+}
+
+.text-drive p{
+    color: #7a8084;
+    font-size: 18px;
+    /* line-height: 21.6px; */
+    letter-spacing: normal;
+}
+a{
+    text-decoration: none !important;
+    letter-spacing: 0.64px;
+    font-size: 16px;
+}
+.fa-arrow-right{
+    padding-left: 10px;
+    margin-right: 33px;
+}
+
+.prize_info{
+    color: #7a8084;
+    letter-spacing: normal;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
